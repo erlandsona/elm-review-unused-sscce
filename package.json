@@ -1,0 +1,15 @@
+{
+  "name": "elm-review-unused-sscce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sscce": "elm-review"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm": "^0.19.1-5",
+    "elm-review": "^2.5.5"
+  }
+}
